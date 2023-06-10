@@ -3,10 +3,10 @@ import { useState, useEffect } from 'react';
 export default function Counter() {
   const [count, setCount] = useState(loadCount() || 0);
 
-  useEffect(() => {
-    window.localStorage.setItem('count', count || 0);
-  }, [count]);
-
+  /*   useEffect(() => {
+      window.localStorage.setItem('count', count || 0);
+    }, [count]);
+   */
   function increment() {
     setCount(prevCount => prevCount + 1);
   }
