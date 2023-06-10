@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.3c262b51.js",
-    "index.html": "/index.html",
-    "main.3c262b51.js.map": "/static/js/main.3c262b51.js.map"
+    "main.js": "/react-local-storage/static/js/main.3c262b51.js",
+    "index.html": "/react-local-storage/index.html",
+    "main.3c262b51.js.map": "/react-local-storage/static/js/main.3c262b51.js.map"
   },
   "entrypoints": [
     "static/js/main.3c262b51.js"
